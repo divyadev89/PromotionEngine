@@ -1,0 +1,6 @@
+D:\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.0\PromotionEngine.exe
+D:\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.0\PromotionEngine.csprojAssemblyReference.cache
+D:\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.0\PromotionEngine.AssemblyInfoInputs.cache
+D:\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.0\PromotionEngine.AssemblyInfo.cs
+D:\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.0\PromotionEngine.dll
+D:\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.0\PromotionEngine.pdb

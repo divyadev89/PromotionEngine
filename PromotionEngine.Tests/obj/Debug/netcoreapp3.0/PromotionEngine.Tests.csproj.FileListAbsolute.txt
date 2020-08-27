@@ -1,0 +1,3 @@
+D:\PromotionEngine\PromotionEngine\PromotionEngine.Tests\obj\Debug\netcoreapp3.0\PromotionEngine.Tests.csprojAssemblyReference.cache
+D:\PromotionEngine\PromotionEngine\PromotionEngine.Tests\obj\Debug\netcoreapp3.0\PromotionEngine.Tests.AssemblyInfoInputs.cache
+D:\PromotionEngine\PromotionEngine\PromotionEngine.Tests\obj\Debug\netcoreapp3.0\PromotionEngine.Tests.AssemblyInfo.cs
